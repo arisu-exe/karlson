@@ -1,0 +1,12 @@
+{
+  "block.karlson.tile_block" : "Tile Block",
+  "block.karlson.glowing_light" : "Glowing Light",
+
+
+
+  "item.karlson.shotgun" : "Shotgun",
+
+
+
+  "itemGroup.karlson" : "Karlson"
+}

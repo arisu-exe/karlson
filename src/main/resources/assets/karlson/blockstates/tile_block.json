@@ -1,0 +1,7 @@
+{
+  "variants" : {
+    "" : {
+      "model" : "karlson:block/tile_block"
+    }
+  }
+}
